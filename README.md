@@ -110,7 +110,7 @@ nested结构 以左右值包容形式 增删不便 查询容易
 
 ### 举个栗子
 
-![example](https://github.com/ydtg1993/dendrogram/blob/master/image/example.PNG)
+![example](https://github.com/ydtg1993/ant/blob/master/example/client/source/express.gif)
 
 adjacency数据结构生成的视图
 
