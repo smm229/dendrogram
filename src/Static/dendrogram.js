@@ -34,7 +34,7 @@
                     callback(xhr.responseText);
                 }
             };
-            console.log(data)
+            
             xhr.send(JSON.stringify(data));
         },
         bindClassEnvent: function (className, event, func) {
